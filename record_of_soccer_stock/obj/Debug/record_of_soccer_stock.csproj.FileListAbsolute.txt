@@ -1,0 +1,12 @@
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\bin\Debug\Database1.mdf
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\bin\Debug\Database1_log.ldf
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\bin\Debug\record_of_soccer_stock.exe.config
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\bin\Debug\record_of_soccer_stock.exe
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\bin\Debug\record_of_soccer_stock.pdb
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.csprojAssemblyReference.cache
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.Form1.resources
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.Properties.Resources.resources
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.csproj.GenerateResource.cache
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.csproj.CoreCompileInputs.cache
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.exe
+C:\Users\steam\source\repos\record_of_soccer_stock\record_of_soccer_stock\obj\Debug\record_of_soccer_stock.pdb
